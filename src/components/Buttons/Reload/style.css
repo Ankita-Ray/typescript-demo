@@ -1,0 +1,12 @@
+.reload {
+  border: none;
+  padding: 10px 25px;
+  font-size: 15px;
+  text-transform: uppercase;
+  border-radius: 2px;
+  cursor: pointer;
+  background: beige;
+}
+.reload:hover { 
+  background: #ffffb4;
+}
